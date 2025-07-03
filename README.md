@@ -1,2 +1,23 @@
 # Sentiment Analysis Gopay 2025
  sentiment analysis Gopay 2025 using Machine learning & Deep Learning
+
+![Title](Asset/SAG(1).jpg)
+![Abstract](Asset/SAG(2).jpg)
+![Model Performance](Asset/SAG(3).jpg)
+![Overall Sentiment](Asset/SAG(4).jpg)
+![User Sentiment Overview](Asset/SAG(5).jpg)
+![Positive Sentiment Overview](Asset/SAG(6).jpg)
+![Positive Sentiment Overview Deep Analysis](Asset/SAG(7).jpg)
+![Positive Sentiment Overview Deep Analysis](Asset/SAG(8).jpg)
+![Negative Sentiment Overview](Asset/SAG(9).jpg)
+![Negative Sentiment Overview Deep Analysis](Asset/SAG(10).jpg)
+![Negative Sentiment Overview Deep Analysis](Asset/SAG(11).jpg)
+![Negative Sentiment Overview Deep Analysis](Asset/SAG(12).jpg)
+![Neutral Sentiment Overview](Asset/SAG(13).jpg)
+![Neutral Sentiment Overview Deep Analysis](Asset/SAG(14).jpg)
+![Neutral Sentiment Overview Deep Analysis](Asset/SAG(15).jpg)
+![Neutral Sentiment Overview Deep Analysis](Asset/SAG(16).jpg)
+![Data Driven Decision Making](Asset/SAG(17).jpg)
+![APP INSTABILITY](Asset/SAG(18).jpg)
+![FEATURE IMPROVEMENT](Asset/SAG(19).jpg)
+![GITHUB CONNECT](Asset/SAG(20).jpg)
